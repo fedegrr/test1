@@ -1,6 +1,5 @@
 inserita questa riga dopo commit 3
 creato in branch master dopo la clonazione iniziale e poi modificato dopo il primo commit
-nuova riga aggiunta DOPO commit 2
 inserita NUOVA1 dopo commit 4
 inserita NUOVA2 dopo commit4
 inserita NUOVA3 dopo commit 4
